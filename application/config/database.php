@@ -98,7 +98,7 @@ switch (ENVIRONMENT) {
     case 'development':
 		$db['default']['hostname'] = 'localhost';
 		$db['default']['username'] = 'root';
-		$db['default']['password'] = 'root@1806';
+		$db['default']['password'] = 'root';
 		$db['default']['database'] = 'holiday';
 		break;
 	case 'production':
@@ -110,7 +110,7 @@ switch (ENVIRONMENT) {
     default:
 		$db['default']['hostname'] = 'localhost';
 		$db['default']['username'] = 'root';
-		$db['default']['password'] = 'root@1806';
+		$db['default']['password'] = 'root';
 		$db['default']['database'] = 'holiday';
 		break;
 }
