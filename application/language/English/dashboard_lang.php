@@ -1,0 +1,35 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['overview_title']		= "Overview";
+$lang['live_title']		= "Volume of email sent ";
+$lang['churn_title']			= 'Churn';
+$lang['best_performing_template']		= 'Best Performing Template';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
+$lang['']			= '';
+$lang['']		= '';
