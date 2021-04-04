@@ -70,8 +70,8 @@ class Register extends MY_Controller {
                         'protocol' => 'smtp',
                         'smtp_host' => 'pro.eu.turbo-smtp.com',
                         'smtp_port' => 587,
-                        'smtp_user' => 'zorica@thegamesilo.com',
-                        'smtp_pass' => 'wg2Uh6qh',
+                        'smtp_user' => 'email@holiday.com',
+                        'smtp_pass' => '123456',
                         'mailtype' => 'html',
                         'charset' => 'iso-8859-1',
                         'wordwrap' => TRUE
